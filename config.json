@@ -1,0 +1,12 @@
+{
+  "DumpMethod": true,
+  "DumpField": true,
+  "DumpProperty": true,
+  "DumpAttribute": true,
+  "DumpFieldOffset": true,
+  "DumpMethodOffset": true,
+  "DumpTypeDefIndex": true,
+  "RequireAnyKey": false,
+  "ForceDump": false,
+  "NoRedirectedPointer": false
+}
