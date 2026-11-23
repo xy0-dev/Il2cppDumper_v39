@@ -1,6 +1,7 @@
 # Il2cppDumper_v39
 
-A trimmed Il2CppDumper fork. **Metadata version 39 only** - any other
+A trimmed fork of [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper),
+MIT licensed (see `LICENSE`). **Metadata version 39 only** - any other
 `global-metadata.dat` version is rejected.
 
 It produces exactly two files:
